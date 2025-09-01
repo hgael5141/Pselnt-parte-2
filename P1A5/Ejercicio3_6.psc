@@ -29,9 +29,10 @@ Algoritmo Ejercicio3_6
 	//(e)
 	Escribir "El resultado del Inciso (e) es:", 4*x^2-2*x+7;
 	//(f)
-	Escribir "El resultado del Inciso (f) es:", dadada;
+	Escribir "El resultado del Inciso (f) es:", ((x+y_v)/x)-((3*x)/5);
 	//(g)
-	Escribir "El resultado del Inciso (g) es:", wwreerwqe;
+	Escribir "El resultado del Inciso (g) es:", a / (b * c);
+;
 	//(h)
 	Escribir "Inciso h";
 	Definir x1,x2,y1,y2 Como Reales
@@ -46,12 +47,13 @@ Algoritmo Ejercicio3_6
 	Leer y2;
 	Escribir "El resultado del Inciso (h) es:", (x2-x1)^2 + (y2-y1)^2;
 	//(i)
-	Escribir "El resultado del Inciso (i) es:", weqeqw;
+	Escribir "El resultado del Inciso (i) es:", (4*x^2)-(2*x)+7;
 	//(j)
 	Escribir "El resultado del Inciso (j) es:", 2*Pi*r;
 	//(k)
-	Escribir "El resultado del Inciso (k) es:", adrtyera;
+	Escribir "El resultado del Inciso (k) es:", PI*radio^3;
 	//(l)
 	Escribir "El resultado del Inciso (l) es:", wFDSfETE;
 	
 FinAlgoritmo
+
